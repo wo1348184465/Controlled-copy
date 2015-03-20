@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0610"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "E30149DD1AB0128A007A3B3F"
+               BuildableName = "NoCopy.app"
+               BlueprintName = "&#x7981;&#x7528;&#x526a;&#x5207;&#x677f;"
+               ReferencedContainer = "container:&#x7981;&#x7528;&#x526a;&#x5207;&#x677f;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "E30149F61AB0128A007A3B3F"
+               BuildableName = "NoCopyTests.xctest"
+               BlueprintName = "&#x7981;&#x7528;&#x526a;&#x5207;&#x677f;Tests"
+               ReferencedContainer = "container:&#x7981;&#x7528;&#x526a;&#x5207;&#x677f;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "E30149F61AB0128A007A3B3F"
+               BuildableName = "NoCopyTests.xctest"
+               BlueprintName = "&#x7981;&#x7528;&#x526a;&#x5207;&#x677f;Tests"
+               ReferencedContainer = "container:&#x7981;&#x7528;&#x526a;&#x5207;&#x677f;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "E30149DD1AB0128A007A3B3F"
+            BuildableName = "NoCopy.app"
+            BlueprintName = "&#x7981;&#x7528;&#x526a;&#x5207;&#x677f;"
+            ReferencedContainer = "container:&#x7981;&#x7528;&#x526a;&#x5207;&#x677f;.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "E30149DD1AB0128A007A3B3F"
+            BuildableName = "NoCopy.app"
+            BlueprintName = "&#x7981;&#x7528;&#x526a;&#x5207;&#x677f;"
+            ReferencedContainer = "container:&#x7981;&#x7528;&#x526a;&#x5207;&#x677f;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "E30149DD1AB0128A007A3B3F"
+            BuildableName = "NoCopy.app"
+            BlueprintName = "&#x7981;&#x7528;&#x526a;&#x5207;&#x677f;"
+            ReferencedContainer = "container:&#x7981;&#x7528;&#x526a;&#x5207;&#x677f;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
